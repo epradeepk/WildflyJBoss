@@ -1,7 +1,7 @@
 ---
 # This playbook deploys a simple standalone JBoss server. 
 
-- hosts: localhost  
+- hosts: 52.116.132.46
   remote_user: centos 
   sudo: yes
 
